@@ -1,0 +1,20 @@
+# 这本书一共有20个设置模式： #
+> - Factory模式
+> - Abstract Factory模式
+> - Builder模式
+> - Prototype模式
+> - Singleton模式
+> - Adapt模式
+> - Bridge模式
+> - Composite模式
+> - Proxy模式
+> - TemplateMethod模式
+> - ChainOfResponsibility模式
+> - Flyweight模式
+> - Command模式
+> - Observer模式
+> - Strategy模式
+> - State模式
+> - Iterator模式
+> - Memento模式
+> - Visitor模式
